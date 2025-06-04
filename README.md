@@ -35,7 +35,5 @@ From building production-ready apps in **React** and **Next.js**, to setting up 
 - Environment management, secrets, and `.env` best practices
 - Log aggregation & monitoring (LogRocket, Sentry, Grafana)
 
----
-
-## 📁 Structure Overview
+I want to start working on that
 
