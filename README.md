@@ -33,7 +33,6 @@ From building production-ready apps in **React** and **Next.js**, to setting up 
 - GitHub Actions for CI/CD workflows
 - Deployment to Vercel, Render, Railway, and self-hosted environments
 - Environment management, secrets, and `.env` best practices
-- Log aggregation & monitoring (LogRocket, Sentry, Grafana)
-
-I want to start working on that
+- Log aggregation & monitoring
+- I want to start working on that
 
