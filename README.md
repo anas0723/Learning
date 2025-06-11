@@ -34,5 +34,6 @@ From building production-ready apps in **React** and **Next.js**, to setting up 
 - Deployment to Vercel, Render, Railway, and self-hosted environments
 - Environment management, secrets, and `.env` best practices
 - Log aggregation & monitoring
-- I want to start working on that
+- I want to start working on that but I am think should I go for this or leetcode
+  
 
